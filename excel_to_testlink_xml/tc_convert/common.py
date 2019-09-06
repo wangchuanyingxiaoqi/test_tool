@@ -1,0 +1,16 @@
+TEST_SUITE = 'testsuite'
+NAME = 'name'
+IMPORTANCE = 'importance'
+TEST_TYPE = 'test_type'
+KEY_WORD = 'key_word'
+SUMMARY = 'summary'
+PRECONDITIONS = 'preconditions'
+STEP_NUMBER = 'step_number'
+ACTIONS = 'actions'
+EXPECTRESULTS = 'expectedresults'
+estimated_exec_duration = 0
+STEPS = 'steps'
+STEP = 'step'
+TC_NAME = '测试用例名称'
+TC_STEPS = '测试步骤'
+PRI_DICT={'P0':'3','P1':'2','P2':'1'}
